@@ -1,0 +1,7 @@
+This is an unfinished project to build a Metrovick CO-BO. OpenSCAD is a crazy
+way to do this so if you want to finish it I'd strongly suggest rendering it
+in OpenScad and importing the STL into a more appropriate tool.
+
+Some of the pieces are provided in both xcf and scad format. A tool generates
+one from the other but isn't yet releaseable. The scad files should be fine
+given you'd want to import the file into a 3D design tool anyway.
