@@ -1,4 +1,4 @@
-The coupling box is ested, the NEM style close coupler was an experiment
+The coupling box is tested, the NEM style close coupler was an experiment
 that was never finished. This file is needed however by various projects tha
 thave NEM couplers on them. You may need to tweak the values a tiny bit for
 the print process. Right now it's tuned to get working boxes out of
